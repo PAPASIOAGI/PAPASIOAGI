@@ -6,6 +6,9 @@
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Assalamualaikum%2C+I'm+Rifaiz;%F0%9F%92%BB+Software+Engineering+Student;%F0%9F%94%90+CTF+Player+%7C+Cybersecurity+Enthusiast;%F0%9F%8C%90+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
+
+
+
 <!-- PROFILE VIEWS & SOCIAL -->
 <p>
 <a href="https://github.com/PAPASIOAGI?tab=followers">
