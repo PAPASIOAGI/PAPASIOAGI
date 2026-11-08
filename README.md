@@ -92,24 +92,6 @@ const papasioagi = {
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/PAPASIOAGI/Cleanify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=Cleanify&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/PastikanDulu-by-typhoonbits">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=PastikanDulu-by-typhoonbits&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/CTFs-I-ve-done-before-but-I-can-t-remember-when">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=CTFs-I-ve-done-before-but-I-can-t-remember-when&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/project-kelompok-8">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=project-kelompok-8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-
-</div>
-
----
 
 <!-- ALL REPOSITORIES -->
 ## 📂 All Repositories
