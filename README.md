@@ -33,8 +33,7 @@ const papasioagi = {
     username: "PAPASIOAGI",
     education: "Software Engineering Student @ SMKN 8 Jakarta",
     fields: ["Web Development", "Desktop Application", "Cybersecurity"],
-    currentFocus: "Full Stack Development & Capture The Flag",
-    funFact: "I debug code at 3 AM and call it 'productive' 🌙"
+    funFact: "I Want fursuit so much, and more BLÅHAJ' 🌙"
 };
 ```
 
