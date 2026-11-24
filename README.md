@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -5,9 +6,6 @@
 
 <!-- TYPING SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Assalamualaikum%2C+I'm+Rifaiz;%F0%9F%92%BB+Software+Engineering+Student;%F0%9F%94%90+CTF+Player+%7C+Cybersecurity+Enthusiast;%F0%9F%8C%90+Full+Stack+Web+Developer)](https://git.io/typing-svg)
-
-
-
 
 <!-- PROFILE VIEWS & SOCIAL -->
 <p>
@@ -34,7 +32,7 @@ const papasioagi = {
     education: "Software Engineering Student @ SMKN 8 Jakarta",
     fields: ["Web Development", "Desktop Application", "Cybersecurity"],
     funFact: "Normal Person guys fr' 🌙",
-    wishlist: "I Want fursuit so much, and more BLÅHAJ" 
+    wishlist: "I Want fursuit so much, and more BLÅHAJ"
 };
 ```
 
@@ -57,6 +55,7 @@ const papasioagi = {
 <div align="center">
 
 ### 💻 Languages
+
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -68,6 +67,7 @@ const papasioagi = {
 </p>
 
 ### 🧰 Frameworks & Tools
+
 <p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -78,6 +78,7 @@ const papasioagi = {
 </p>
 
 ### 🗄️ Database & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -133,11 +134,11 @@ const papasioagi = {
 
 ---
 
-
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
 
 ### 💭 Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
 
 </div>
@@ -165,7 +166,7 @@ const papasioagi = {
 
 ---
 
-
+<!-- FINAL FOOTER -->
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
@@ -175,7 +176,7 @@ const papasioagi = {
 <!-- BLÅHAJ ANIMATION -->
 <img src="https://media.tenor.com/2Ro3o7-u2uUAAAAi/blahaj-ikea.gif"
      width="130"
-     alt="BLÅHAJ swimming around"/>
+     alt="Swimming BLÅHAJ"/>
 
 <br/>
 
@@ -187,7 +188,5 @@ const papasioagi = {
 
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
-
-</div>
 
 </div>
