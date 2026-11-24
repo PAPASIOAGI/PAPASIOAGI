@@ -165,14 +165,28 @@ const papasioagi = {
 
 ---
 
+
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
+<!-- BLÅHAJ ANIMATION -->
+<img src="https://media.tenor.com/2Ro3o7-u2uUAAAAi/blahaj-ikea.gif"
+     width="130"
+     alt="BLÅHAJ swimming around"/>
 
+<br/>
+
+**🦈 BLÅHAJ is protecting my code.**
+
+<sub>Powered by caffeine, curiosity, and BLÅHAJ. 💙</sub>
+
+<br/>
+
+<!-- ANIMATED FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
 
 </div>
 
