@@ -174,7 +174,7 @@ const papasioagi = {
 <br/>
 
 <!-- BLÅHAJ ANIMATION -->
-<img src="https://media.tenor.com/2Ro3o7-u2uUAAAAi/blahaj-ikea.gif"
+<img src="https://tenor.com/view/blahaj-blåhaj-spinning-gif-9414264480969140733"
      width="130"
      alt="Swimming BLÅHAJ"/>
 
