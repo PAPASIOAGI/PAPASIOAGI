@@ -24,6 +24,8 @@
 <!-- ABOUT ME -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Apu/Tarikul-Islam-Apu/main/Assets/handshake.gif" width="40"> &nbsp;About Me
 
+<img align="right" src="blahaj-blåhaj.gif" width="220" alt="BLÅHAJ"/>
+
 ```js
 const papasioagi = {
     name: "Rifaiz",
