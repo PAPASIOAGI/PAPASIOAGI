@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -32,8 +33,8 @@ const papasioagi = {
     username: "PAPASIOAGI",
     education: "Software Engineering Student @ SMKN 8 Jakarta",
     fields: ["Web Development", "Desktop Application", "Cybersecurity"],
-    currentFocus: "Full Stack Development & Capture The Flag",
-    funFact: "I debug code at 3 AM and call it 'productive' 🌙"
+    funFact: "Normal Person guys fr' 🌙",
+    wishlist: "I Want fursuit so much, and more BLÅHAJ"
 };
 ```
 
@@ -56,6 +57,7 @@ const papasioagi = {
 <div align="center">
 
 ### 💻 Languages
+
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -67,6 +69,7 @@ const papasioagi = {
 </p>
 
 ### 🧰 Frameworks & Tools
+
 <p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
@@ -77,6 +80,7 @@ const papasioagi = {
 </p>
 
 ### 🗄️ Database & DevOps
+
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -89,88 +93,9 @@ const papasioagi = {
 
 ---
 
-<!-- PHP EXPERTISE -->
-## 🐘 PHP Expertise
-
-<div align="center">
-
-```
-  ██████╗ ██╗  ██╗██████╗     ██████╗ ███████╗██╗   ██╗
-  ██╔══██╗██║  ██║██╔══██╗    ██╔══██╗██╔════╝██║   ██║
-  ██████╔╝███████║██████╔╝    ██║  ██║█████╗  ██║   ██║
-  ██╔═══╝ ██╔══██║██╔═══╝     ██║  ██║██╔══╝  ╚██╗ ██╔╝
-  ██║     ██║  ██║██║         ██████╔╝███████╗ ╚████╔╝
-  ╚═╝     ╚═╝  ╚═╝╚═╝         ╚═════╝ ╚══════╝  ╚═══╝
-```
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔧 Backend Development
-- ✅ **PHP Native** — Building web apps from scratch
-- ✅ **Laravel** — MVC architecture & Eloquent ORM
-- ✅ **RESTful API** — API design & implementation
-- ✅ **Authentication** — Session, JWT, OAuth
-
-</td>
-<td width="50%">
-
-### 🗃️ Database Integration
-- ✅ **MySQL + PDO** — Secure database queries
-- ✅ **CRUD Operations** — Full data management
-- ✅ **Query Optimization** — Efficient database design
-- ✅ **Migration & Seeding** — Laravel migrations
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛡️ Security Practices
-- ✅ **SQL Injection Prevention** — Prepared statements
-- ✅ **XSS Protection** — Output sanitization
-- ✅ **CSRF Tokens** — Form security
-- ✅ **Password Hashing** — bcrypt implementation
-
-</td>
-<td width="50%">
-
-### 📦 PHP Ecosystem
-- ✅ **Composer** — Dependency management
-- ✅ **PHPUnit** — Unit testing
-- ✅ **MVC Pattern** — Clean architecture
-- ✅ **Template Engine** — Blade templating
-
-</td>
-</tr>
-</table>
-
----
-
 <!-- FEATURED PROJECTS -->
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/PAPASIOAGI/Cleanify">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=Cleanify&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/PastikanDulu-by-typhoonbits">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=PastikanDulu-by-typhoonbits&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/CTFs-I-ve-done-before-but-I-can-t-remember-when">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=CTFs-I-ve-done-before-but-I-can-t-remember-when&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-<a href="https://github.com/PAPASIOAGI/project-kelompok-8">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PAPASIOAGI&repo=project-kelompok-8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=8b949e" />
-</a>
-
-</div>
-
----
 
 <!-- ALL REPOSITORIES -->
 ## 📂 All Repositories
@@ -211,25 +136,11 @@ const papasioagi = {
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAPASIOAGI/PAPASIOAGI/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAPASIOAGI/PAPASIOAGI/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/PAPASIOAGI/PAPASIOAGI/output/github-snake-dark.svg" width="100%"/>
-</picture>
-</div>
-
-> 💡 *Contribution snake will appear after setting up the [snk GitHub Action](https://github.com/Platane/snk) in this repository*
-
----
-
 <!-- RANDOM DEV QUOTE -->
 <div align="center">
 
 ### 💭 Random Dev Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
 
 </div>
@@ -257,12 +168,24 @@ const papasioagi = {
 
 ---
 
+<!-- FINAL FOOTER -->
 <div align="center">
 
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 <br/>
 
+
+
+<br/>
+
+**🦈 BLÅHAJ is protecting my code.**
+
+<sub>Powered by caffeine, curiosity, and BLÅHAJ. 💙</sub>
+
+<br/>
+
+<!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
 
 </div>
